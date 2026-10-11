@@ -1,0 +1,6 @@
+{
+  "name": "GrandCare - EHR & Ops Suite",
+  "description": "Tổ hợp Y tế Quốc tế & Nghỉ dưỡng Lão khoa GrandCare - Quản trị Viện phí, EHR Master, Kho dược API, Telehealth, Sơ đồ buồng bệnh và Điều phối Cấp cứu 115 Dijkstra GPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
